@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+}
+
+a:active, a:visited{
+    text-decoration: none;
+    color:firebrick
+}
+
+.content_center{
+    margin: 0px auto
+}
+
+div>.card-header{
+    color: rgba(70, 40, 19, 0.911)
+}
